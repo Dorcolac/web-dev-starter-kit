@@ -1,0 +1,14 @@
+$primary: green;
+
+body {
+    background-color: $primary;
+    color: white;
+}
+
+p {
+    color: red;
+}
+
+input::placeholder {
+    color: red;
+}
